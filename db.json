@@ -14,6 +14,15 @@
     "id": 3,
     "quote": "It is during our darkest moments that we must focus to see the light.",
     "author": "Aristotle"
+    },
+    {
+      "id": 4,
+      "quote": "Now I am become death, the destroyer of worlds.",
+      "author": "Robert Oppenheimer"
+    },
+    {
+      "id": 5,
+      "quote": "
     }
   ]
 }

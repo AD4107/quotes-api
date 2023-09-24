@@ -1,0 +1,19 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "The only thing we have to fear is fear itself.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+    "id": 2,
+    "quote": "Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.",
+    "author": "Martin Luther King Jr."
+    },
+    {
+    "id": 3,
+    "quote": "It is during our darkest moments that we must focus to see the light.",
+    "author": "Aristotle"
+    }
+  ]
+}
